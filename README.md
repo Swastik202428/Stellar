@@ -248,3 +248,8 @@ vercel --prod   # Deploy to Vercel
 ## License
 
 MIT
+
+
+---
+### Stellar Smart Contract Address
+`CD23VEYGDMG4PSLMY5ZT46K6UZ6RL4BV7AU5ATHSKLFB5AKR4LZTK2LQ`
