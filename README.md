@@ -1,3 +1,12 @@
+# ParkChain Frontend Configuration
+NEXT_PUBLIC_API_URL=http://localhost:4000
+NEXT_PUBLIC_CONTRACT_ID=CDJZWJTRZZR57367I4RV72MZ7IBPCJR25TGK25I6T63SGM723H2H5QND
+NEXT_PUBLIC_NETWORK=testnet
+NEXT_PUBLIC_RPC_URL=https://soroban-testnet.stellar.org
+NEXT_PUBLIC_NETWORK_PASSPHRASE=Test SDF Network ; September 2015
+
+
+
 # ParkChain 🅿️✨
 
 > Smart Parking Management System powered by Stellar Blockchain
